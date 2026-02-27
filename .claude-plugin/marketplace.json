@@ -1,0 +1,23 @@
+{
+  "name": "metaswarm-marketplace",
+  "owner": {
+    "name": "David Sifry",
+    "email": "david@sifry.com"
+  },
+  "metadata": {
+    "description": "Metaswarm multi-agent orchestration framework for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "metaswarm",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/dsifry/metaswarm.git"
+      },
+      "description": "Multi-agent orchestration framework — 18 agents, 9-phase workflow, quality gates, TDD enforcement",
+      "version": "0.9.0",
+      "strict": true
+    }
+  ]
+}
