@@ -15,8 +15,8 @@
         "source": "url",
         "url": "https://github.com/dsifry/metaswarm.git"
       },
-      "description": "Multi-agent orchestration framework — 18 agents, 9-phase workflow, quality gates, TDD enforcement",
-      "version": "0.9.0",
+      "description": "Multi-agent orchestration framework for Claude Code, Gemini CLI, and Codex CLI — 18 agents, 13 skills, 15 commands, TDD enforcement",
+      "version": "0.9.1",
       "strict": true
     }
   ]
