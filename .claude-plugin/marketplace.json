@@ -5,7 +5,7 @@
     "email": "david@sifry.com"
   },
   "metadata": {
-    "description": "Metaswarm multi-agent orchestration framework for Claude Code",
+    "description": "Metaswarm multi-agent orchestration framework for Claude Code, Gemini CLI, and Codex CLI",
     "version": "1.0.0"
   },
   "plugins": [
