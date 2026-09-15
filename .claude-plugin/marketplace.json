@@ -13,7 +13,9 @@
       "name": "metaswarm",
       "source": {
         "source": "url",
-        "url": "https://github.com/dsifry/metaswarm.git"
+        "url": "https://github.com/dsifry/metaswarm.git",
+        "ref": "v0.12.0",
+        "sha": "aff6ae900c4cec944e3ed99346c8b2d85c569253"
       },
       "description": "Multi-agent orchestration framework for Claude Code, Gemini CLI, and Codex CLI — 19 agents, 14 skills, 16 commands, TDD enforcement",
       "version": "0.12.0",
