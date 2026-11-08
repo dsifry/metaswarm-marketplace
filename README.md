@@ -5,7 +5,15 @@ Claude Code marketplace for the [metaswarm](https://github.com/dsifry/metaswarm)
 ## Install
 
 ```bash
-claude plugin add dsifry/metaswarm
+claude plugin marketplace add dsifry/metaswarm-marketplace
+claude plugin install metaswarm@metaswarm-marketplace
+```
+
+To update an existing install (auto-update is off by default for third-party marketplaces):
+
+```bash
+claude plugin marketplace update metaswarm-marketplace
+claude plugin update metaswarm@metaswarm-marketplace
 ```
 
 Then open Claude Code in your project and run `/metaswarm:setup`.
